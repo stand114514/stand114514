@@ -1,5 +1,5 @@
 ### Hi there 👋
-##⚡ folk is a shit
+⚡ folk is a shit
 <!--
 **stand114514/stand114514** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
